@@ -7,7 +7,7 @@
 
 This project provides a detailed Netflix Content Analysis Dashboard, created using Tableau, which visually represents various metrics of Netflix's movies and TV shows. The dashboard focuses on ratings, genres, country-wise distributions, and content trends over the years to help users understand the patterns and trends in Netflix's catalog.
 
-##✨ Key Features
+## ✨ Key Features
 
 - 🌍 Total Movie & TV Shows by Country: A world map visual showing the number of movies and TV shows available in different countries, helping to understand geographic distribution.
 
